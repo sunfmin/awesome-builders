@@ -7,6 +7,7 @@ A list of awesome software packages that uses builder pattern
 - [htmlgo](https://github.com/theplant/htmlgo) - Builder for HTML
 - [gogen](https://github.com/sunfmin/gogen) - Builder for Go source code
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - Builder for SQL
+- [go-restclient](https://github.com/ysyesilyurt/go-restclient) - Builder for HTTP Request
 
 
 ## Swift
