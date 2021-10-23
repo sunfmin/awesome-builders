@@ -8,6 +8,7 @@ A list of awesome software packages that uses builder pattern
 - [gogen](https://github.com/sunfmin/gogen) - Builder for Go source code
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - Builder for SQL
 - [go-restclient](https://github.com/ysyesilyurt/go-restclient) - Builder for HTTP Request
+- [multipartbuilder](https://github.com/mxmCherry/multipartbuilder) - Simple streaming multipart builder for Go
 
 
 ## Swift
