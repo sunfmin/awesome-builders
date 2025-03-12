@@ -11,6 +11,7 @@ A list of awesome software packages that uses builder pattern
 - [multipartbuilder](https://github.com/mxmCherry/multipartbuilder) - Simple streaming multipart builder for Go
 - [govy](https://github.com/nobl9/govy) - Go validation library with functional API built on top of generics, statically typed and batteries included 
 - [valgo](https://github.com/cohesivestack/valgo) - Valgo is a type-safe, expressive, and extensible validator library for Golang. Supports localization and is built with generics.
+- [rex](https://github.com/hedhyw/rex) - Flexible regular expressions constructor for Golang.
 
 
 ## Swift
